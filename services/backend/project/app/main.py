@@ -16,3 +16,6 @@ def pong(settings: Settings = Depends(get_settings)):
         "testing": settings.testing,
         "message": "hello",
     }
+    
+    
+print("hi")    
