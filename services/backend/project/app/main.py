@@ -19,3 +19,4 @@ def pong(settings: Settings = Depends(get_settings)):
     
     
 print("hi")    
+print("hello")
